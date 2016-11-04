@@ -1,5 +1,5 @@
 # hello-world
 
-Hi `everyone`.
+Hi everyone.
 
 My name is Tim Sims. I like R and data-visualization.
